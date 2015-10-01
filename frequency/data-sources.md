@@ -6,7 +6,7 @@ The `SmithAndNeiman` directory contains data sets analyzed by Karen Y. Smith and
 
 The Kolomoki data are different collection units from the Kolomoki site, and are included here for completeness, not because you'd use classic frequency seriation to analyze them.  
 
-No geographic coordinates are available at present for these assemblages, so the IDSS function for calculating the geographic significance of seriation neighbor patterns is not available for these data.
+Geographic coordinates were geotagged from published maps by Lipo, and are included for the full data set (but obviously not for the Kolomoki units)
 
 ## Phillips, Ford, and Griffin 1951 ##
 
